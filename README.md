@@ -7,7 +7,7 @@
 - <b>Venmo App</b>
   - [Complete server-client money transfer app similar to Venmo using MVC, RESTful APIs. Server-side is Spring with DB scripted in PostgreSQL](https://github.com/pavgee/Venmo-App.git)
 - <b>Meal Planner App</b>
-  - [Full Stack Meal Planner App with Recipe Database and Vue FrontEnd]([https://github.com/pavgee/Meal-Planner]
+  - [Full Stack Meal Planner App with Recipe Database and Vue FrontEnd](https://github.com/pavgee/Meal-Planner)
 
 <h2> 🤳 Connect with me:</h2>
 
